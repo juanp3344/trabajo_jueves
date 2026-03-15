@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Cns_Ejecucion/Cns_Ejecucion.csproj" Id="2161ff00-ea9f-49af-a1b0-c6f89bbb1662" />
+  <Project Path="Lib_Programas/Lib_Programas.csproj" Id="e36036b4-c765-48e6-bfff-26965d19b451" />
+  <Project Path="Uni_Pruebas/Uni_Pruebas.csproj" Id="2eff11ef-b20d-4323-aa70-e410fb39bdc1" />
+</Solution>

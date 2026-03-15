@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFF11EF-B20D-4323-AA70-E410FB39BDC1}|Uni_Pruebas\\Uni_Pruebas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\uni_pruebas\\tareasuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFF11EF-B20D-4323-AA70-E410FB39BDC1}|Uni_Pruebas\\Uni_Pruebas.csproj|solutionrelative:uni_pruebas\\tareasuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFF11EF-B20D-4323-AA70-E410FB39BDC1}|Uni_Pruebas\\Uni_Pruebas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\uni_pruebas\\clienteuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFF11EF-B20D-4323-AA70-E410FB39BDC1}|Uni_Pruebas\\Uni_Pruebas.csproj|solutionrelative:uni_pruebas\\clienteuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2161FF00-EA9F-49AF-A1B0-C6F89BBB1662}|Cns_Ejecucion\\Cns_Ejecucion.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\cns_ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2161FF00-EA9F-49AF-A1B0-C6F89BBB1662}|Cns_Ejecucion\\Cns_Ejecucion.csproj|solutionrelative:cns_ejecucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\lib_programas\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|solutionrelative:lib_programas\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\lib_programas\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|solutionrelative:lib_programas\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\lib_programas\\entidades\\tipo_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|solutionrelative:lib_programas\\entidades\\tipo_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\lib_programas\\entidades\\categoria_tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|solutionrelative:lib_programas\\entidades\\categoria_tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|c:\\users\\gado\\downloads\\desarrollo de software\\programa_tareas\\lib_programas\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36036B4-C765-48E6-BFFF-26965D19B451}|Lib_Programas\\Lib_Programas.csproj|solutionrelative:lib_programas\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareasUNI.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Uni_Pruebas\\TareasUNI.cs",
+              "RelativeDocumentMoniker": "Uni_Pruebas\\TareasUNI.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Uni_Pruebas\\TareasUNI.cs",
+              "RelativeToolTip": "Uni_Pruebas\\TareasUNI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:24:00.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteUNI.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Uni_Pruebas\\ClienteUNI.cs",
+              "RelativeDocumentMoniker": "Uni_Pruebas\\ClienteUNI.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Uni_Pruebas\\ClienteUNI.cs",
+              "RelativeToolTip": "Uni_Pruebas\\ClienteUNI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:17:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "Lib_Programas\\Entidades\\Clientes.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "Lib_Programas\\Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:09:37.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria_Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Entidades\\Categoria_Tareas.cs",
+              "RelativeDocumentMoniker": "Lib_Programas\\Entidades\\Categoria_Tareas.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Entidades\\Categoria_Tareas.cs",
+              "RelativeToolTip": "Lib_Programas\\Entidades\\Categoria_Tareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:09:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "Lib_Programas\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "Lib_Programas\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:00:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Cns_Ejecucion\\Program.cs",
+              "RelativeDocumentMoniker": "Cns_Ejecucion\\Program.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Cns_Ejecucion\\Program.cs",
+              "RelativeToolTip": "Cns_Ejecucion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:53:31.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tipo_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Entidades\\Tipo_Clientes.cs",
+              "RelativeDocumentMoniker": "Lib_Programas\\Entidades\\Tipo_Clientes.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Entidades\\Tipo_Clientes.cs",
+              "RelativeToolTip": "Lib_Programas\\Entidades\\Tipo_Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:52:01.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "Lib_Programas\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\Programa_Tareas\\Lib_Programas\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "Lib_Programas\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:55:08.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

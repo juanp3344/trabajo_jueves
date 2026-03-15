@@ -1,0 +1,12 @@
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\bin\Debug\net8.0\Lib_Programas.deps.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\bin\Debug\net8.0\Lib_Programas.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\bin\Debug\net8.0\Lib_Programas.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\Lib_Programas.csproj.AssemblyReference.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\Lib_Programas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\Lib_Programas.AssemblyInfoInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\Lib_Programas.AssemblyInfo.cs
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\Lib_Programas.csproj.CoreCompileInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\Lib_Programas.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\refint\Lib_Programas.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\Lib_Programas.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\Programa_Tareas\Lib_Programas\obj\Debug\net8.0\ref\Lib_Programas.dll
